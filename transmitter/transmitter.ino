@@ -11,7 +11,7 @@ void setup() {
 }
 
 void loop() {
-  int message = 40;
+  int message = 60;
   rf_driver.send((uint8_t*)&message, sizeof(message));
   rf_driver.waitPacketSent();
   Serial.println("Sent message: ");
