@@ -24,7 +24,7 @@ void setup()
    {
     Serial.println("RF driver initialization failed.");
   }
-  pinMode(A0,INPUT);
+  pinMode(A8,INPUT);
   pinMode(2,OUTPUT);
   digitalWrite(2,LOW);
   esc_signal.attach(9);  //Specify here the pin number on which the signal pin of ESC is connected.
@@ -35,7 +35,7 @@ void setup()
 void loop()
 {
   receiverdata();
-  a=analogRead(A0);
+  a=analogRead(A8);
   //Serial.print("analog value=");
   //Serial.println(a);
   a=map(a,0,1023,30,130);
