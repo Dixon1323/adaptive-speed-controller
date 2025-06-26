@@ -1,8 +1,5 @@
 # Adaptive Speed Controller
 
-[![GitHub Stars](https://img.shields.io/github/stars/USER/REPO?style=for-the-badge&logo=github)](https://github.com/USER/REPO/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/USER/REPO?style=for-the-badge&logo=github)](https://github.com/USER/REPO/network/members)
-[![GitHub Watchers](https://img.shields.io/github/watchers/USER/REPO?style=for-the-badge&logo=github)](https://github.com/USER/REPO/watchers)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-yellow.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Programming_language)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/USER/REPO/graphs/commit-activity)
 
